@@ -1,0 +1,50 @@
+header {
+    height: 50px;
+    text-align: right;
+}
+
+span {
+    color:rgb(252, 80, 186)
+    
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 55px;
+    text-align: left;
+    color:rgb(150, 151, 153);
+
+}
+
+h2 {
+    font-family: cursive;
+    font-size: 50px;
+    text-align: left;
+    color:rgb(252, 80, 186)
+}
+
+h3 {
+    align-content: center;
+}
+
+footer {
+    height: 50px;
+    background-color:white;
+    text-align: center;  
+}
+
+
+
+p {
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    font-weight:bolder;
+    color: rgb(150, 151, 153);
+
+
+}
+
+body{
+    background-color: black;
+}
